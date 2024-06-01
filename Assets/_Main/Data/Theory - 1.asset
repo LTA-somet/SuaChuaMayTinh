@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19dba16d278f5624c85525adf464b639, type: 3}
+  m_Name: Theory - 1
+  m_EditorClassIdentifier: 
+  Muc3Datas:
+  - uID: P1
+    Title: "PH\u1EA6N 1: S\u1EEC D\u1EE4NG B\u1EA2N \u0110\u1ED2 \u0110\u1ECAA H\xCCNH"
+    ChildrenContent:
+    - uID: P1N1
+      Title: "N\u1ED9i dung 1: Kh\xE1i qu\xE1t v\u1EC1 b\u1EA3n \u0111\u1ED3 \u0111\u1ECBa
+        h\xECnh"
+      DemoMediaPath: 
+      ChildrenData:
+      - uID: 
+        Title: 1
+        Content: 1
+        MediaPath: 
+        Order: 0
+        ChildrenContent:
+        - uID: 
+          Title: 
+          Content: '"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+            do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+            ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
+            id est laborum."
+
+            Section 1.10.32 of "de Finibus Bonorum
+            et Malorum", written by Cicero in 45 BC
+
+
+
+            "Sed ut perspiciatis
+            unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+            totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+            architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
+            quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
+            magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro
+            quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci
+            velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore
+            magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
+            exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex
+            ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in
+            ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui
+            dolorem eum fugiat quo voluptas nulla pariatur?"
+
+            1914 translation
+            by H. Rackham
+
+
+
+            "But I must explain to you how all this
+            mistaken idea of denouncing pleasure and praising pain was born and I
+            will give you a complete account of the system, and expound the actual
+            teachings of the great explorer of the truth, the master-builder of human
+            happiness. No one rejects, dislikes, or avoids pleasure itself, because
+            it is pleasure, but because those who do not know how to pursue pleasure
+            rationally encounter consequences that are extremely painful. Nor again
+            is there anyone who loves or pursues or desires to obtain pain of itself,
+            because it is pain, but because occasionally circumstances occur in which
+            toil and pain can procure him some great pleasure. To take a trivial
+            example, which of us ever undertakes laborious physical exercise, except
+            to obtain some advantage from it? But who has any right to find fault
+            with a man who chooses to enjoy a pleasure that has no annoying consequences,
+            or one who avoids a pain that produces no resultant pleasure?"
+
+            Section
+            1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+
+
+
+            "At
+            vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+            praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias
+            excepturi sint occaecati cupiditate non provident, similique sunt in
+            culpa qui officia deserunt mollitia animi, id est laborum et dolorum
+            fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero
+            tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo
+            minus id quod maxime placeat facere possimus, omnis voluptas assumenda
+            est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis
+            debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae
+            sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente
+            delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut
+            perferendis doloribus asperiores repellat."
+
+            1914 translation
+            by H. Rackham
+
+
+
+            "On the other hand, we denounce with righteous
+            indignation and dislike men who are so beguiled and demoralized by the
+            charms of pleasure of the moment, so blinded by desire, that they cannot
+            foresee the pain and trouble that are bound to ensue; and equal blame
+            belongs to those who fail in their duty through weakness of will, which
+            is the same as saying through shrinking from toil and pain. These cases
+            are perfectly simple and easy to distinguish. In a free hour, when our
+            power of choice is untrammelled and when nothing prevents our being able
+            to do what we like best, every pleasure is to be welcomed and every pain
+            avoided. But in certain circumstances and owing to the claims of duty
+            or the obligations of business it will frequently occur that pleasures
+            have to be repudiated and annoyances accepted. The wise man therefore
+            always holds in these matters to this principle of selection: he rejects
+            pleasures to secure other greater pleasures, or else he endures pains
+            to avoid worse pains."'
+          MediaPath: Images/PMTL-MT_muc5.1.2.animation.jpg
+          Type: 0
+          Order: 0
+      - uID: 
+        Title: 2
+        Content: 2
+        MediaPath: Images/PMTL-MT_muc2-home.jpg
+        Order: 1
+        ChildrenContent:
+        - uID: 
+          Title: 1
+          Content: 1
+          MediaPath: Images/PMTL-MT_muc3.2.jpg
+          Type: 0
+          Order: 0
+        - uID: 
+          Title: 
+          Content: 
+          MediaPath: Images/PMTL-MT_muc3.1.jpg
+          Type: 0
+          Order: 1
+      Order: 0
+    - uID: P1N2
+      Title: "N\u1ED9i dung 2: S\u1EED d\u1EE5ng b\u1EA3n \u0111\u1ED3 \u0111\u1ECBa
+        h\xECnh \ntrong nh\xE0"
+      DemoMediaPath: 
+      ChildrenData: []
+      Order: 1
+    - uID: P1N3
+      Title: "N\u1ED9i dung 3: S\u1EED d\u1EE5ng b\u1EA3n \u0111\u1ED3 \u0111\u1ECBa
+        h\xECnh \nt\u1EA1i th\u1EF1c \u0111\u1ECBa"
+      DemoMediaPath: 
+      ChildrenData: []
+      Order: 2
+    Order: 0
+  - uID: P2
+    Title: "PH\u1EA6N 2: S\u1EEC D\u1EE4NG \u0110\u1ECAA B\xC0N, \u1ED0NG NH\xD2M,
+      \nM\xC1Y GPS C\u1EA6M TAY"
+    ChildrenContent:
+    - uID: P2N1
+      Title: "N\u1ED9i dung 1: S\u1EED d\u1EE5ng \u0111\u1ECBa b\xE0n"
+      DemoMediaPath: 
+      ChildrenData: []
+      Order: 0
+    - uID: P2N2
+      Title: "N\u1ED9i dung 2: S\u1EED d\u1EE5ng \u1ED1ng nh\xF2m"
+      DemoMediaPath: 
+      ChildrenData: []
+      Order: 1
+    - uID: P2N3
+      Title: "N\u1ED9i dung 3: S\u1EED d\u1EE5ng m\xE1y GPS c\u1EA7m tay"
+      DemoMediaPath: 
+      ChildrenData: []
+      Order: 2
+    Order: 1
+  - uID: P3
+    Title: "PH\u1EA6N 3: \u0110\u1ECAA H\xCCNH"
+    ChildrenContent:
+    - uID: P3N1
+      Title: "N\u1ED9i dung 1: \u0110\u1ECBa h\xECnh v\xE0 t\xEDnh ch\u1EA5t chi\u1EBFn
+        thu\u1EADt \nc\u1EE7a \u0111\u1ECBa h\xECnh"
+      DemoMediaPath: 
+      ChildrenData: []
+      Order: 0
+    - uID: P3N2
+      Title: "N\u1ED9i dung 2: Nghi\xEAn c\u1EE9u, \u0111\xE1nh gi\xE1 \u0111\u1ECBa
+        h\xECnh qu\xE2n s\u1EF1"
+      DemoMediaPath: 
+      ChildrenData: []
+      Order: 1
+    Order: 2
